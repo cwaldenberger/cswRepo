@@ -1,0 +1,18 @@
+body, html {
+    margin: 0;
+    padding: 0; 
+}
+ .lesson14{
+    margin: 2rem 2rem;
+ }
+
+ .lesson14 img{
+     margin-top: 1.5em;
+     border:.5rem solid black;
+ }
+
+ .lesson14 button{
+     background-color: #000;
+     color: #FFF;
+     font-weight: bold;
+ }
